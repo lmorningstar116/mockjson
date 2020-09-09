@@ -1,0 +1,7 @@
+{
+  "employees": [
+    { "id": 1, "name": "Иванов Иван", "card": "231,07697", "tab_number": "12345", "lpp": true, "fats": 3, "can_purchase": true, "date_of_dismissal": "" },
+    { "id": 2, "name": "Петров Петр", "card": "231,07698", "tab_number": "23456", "lpp": false, "fats": 0, "can_purchase": true, "date_of_dismissal": "" },
+    { "id": 3, "name": "Сидоров Сидр", "card": "231,07699", "tab_number": "34567", "lpp": true, "fats": 10, "can_purchase": false, "date_of_dismissal": "" }
+  ]
+}
